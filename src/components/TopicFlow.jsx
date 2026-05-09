@@ -567,8 +567,8 @@ function TopicFlow({ topic }) {
             <div className="font-oswald text-gray-800 p-2">
               <h3 className="text-center text-xl lg:text-4xl font-bold mb-3">COBA TEBAK</h3>
               <ol className="list-decimal list-inside space-y-3 text-base md:text-lg lg:text-3xl leading-snug">
-                <li>Menurutmu, mengapa dua mobil yang menempuh lintasan sama bisa sampai pada waktu yang berbeda?</li>
-                <li>Jika jarak diperbesar tetapi waktu tetap, bagaimana dugaanmu tentang kelajuan?</li>
+                <li>Menurutmu, apa yang menyebabkan perbedaan gerak antara mobil yang satu dengan yang lain pada video??</li>
+                <li>Jika waktu perjalanan kedua mobil sama, mengapa jarak yang ditempuh bisa berbeda?</li>
                 <li>Menurut pendapatmu, faktor apa yang memengaruhi kelajuan mobil?</li>
               </ol>
             </div>
